@@ -52,6 +52,24 @@ Unlike traditional platforms, this tool is built to let **YOU** bring your own A
 - **Dynamic Glassmorphism UI:** Background and UI elements adapt and respond to real-world time of day.
 - **Multi-Lingual Capabilities:** Native support for English, Turkish, Spanish, and Russian. Everything changes interactively without refreshing.
 
+## 📸 Visual Tour
+
+<div align="center">
+
+| **🌍 Global Clock Interface** | **💬 Live AI Chat & Storyteller** |
+|:---:|:---:|
+| <img src="docs/images/1.png" width="400" alt="Main City View"> | <img src="docs/images/3.png" width="400" alt="Chat UI"> |
+| *Real-time clocks with glassmorphism UI & dynamic backgrounds* | *Interact with the local storyteller persona* |
+
+| **⚙️ Private Settings (BYOK)** | **🛡️ Built-in Privacy Focus** |
+|:---:|:---:|
+| <img src="docs/images/2.png" width="400" alt="Settings Manager"> | <img src="docs/images/4.png" width="400" alt="Privacy Policy Modal"> |
+| *Manage API keys, models, and multi-language support (TR, EN, ES, RU)* | *Fully transparent, zero-backend architecture* |
+
+</div>
+
+<br/>
+
 ---
 
 ## 🛠️ Quick Start & Installation Guide
@@ -77,18 +95,6 @@ You can test this project immediately by spinning up the development environment
     - Click the ⚙️ Settings icon at the bottom of the screen.
     - Input your API key (get one free from [Google AI Studio](https://aistudio.google.com/)).
     - Save and start chatting!
-
----
-
-## 🌐 Deploy for Free (Zero Cost)
-
-Because this is a static VITE application, deployment is quick and 100% free with **Vercel** or **Netlify**.
-
-1. Upload this repository to your GitHub account.
-2. Log into [Vercel](https://vercel.com/) with GitHub.
-3. Click "Add New Project" and select your ROT-Systems repository.
-4. Keep the default settings and hit **Deploy**.
-5. Within 60 seconds, your site will be live worldwide! 🚀
 
 ---
 
